@@ -1,2 +1,2 @@
-# DATA-SCIENCE-
+# DATA-SCIENCE-Algorithms
 notes
